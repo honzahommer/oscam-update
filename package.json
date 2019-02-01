@@ -1,7 +1,7 @@
 {
   "name": "oscam-update",
   "description": "Fetch actual data from parabola.cz, update oscam.srvid and oscam.srvid config files and restart service.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index",
   "author": "Honza Hommer <honza@hommer.cz>",
   "repository": {
