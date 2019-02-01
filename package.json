@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "index",
   "author": "Honza Hommer <honza@hommer.cz>",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/honzahommer/oscam-update.git"
